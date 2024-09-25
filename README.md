@@ -28,7 +28,7 @@ Description of folder contents are as follows:
 # Code Overview
 Code was written in Python and executed in Jupyter notebooks.
 
-## Utilizes the following libraries:
+### Utilizes the following libraries:
 - Pandas: For data manipulation and analysis
 - NumPy: For numerical operations and array handling
 - OS: For interacting with the operating system, including file and directory operations
